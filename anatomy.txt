@@ -1,0 +1,11 @@
+ Facial bones
+
+8	
+# Cranial bones
+
+24	
+# of Ribs
+
+1-7	
+ribs ___ are true
+
