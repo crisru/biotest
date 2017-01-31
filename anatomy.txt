@@ -1,4 +1,4 @@
- Facial bones
+ Facial bones: muscularis
 
 8	
 # Cranial bones
