@@ -1,6 +1,6 @@
 public class hello{
 
 public static void main (String[] args){
-	System.out.println("OLA K HACES IM CRIS");
+	System.out.println("this is another file");
 }
 }
